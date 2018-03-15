@@ -1,0 +1,18 @@
+if application "Spotify" is running then
+	tell application "Spotify"
+		set currentArtist to artist of current track as string
+		set currentTrack to name of current track as string
+		
+		set completeString to currentTrack & " - " & currentArtist
+		set numberOfCharacters to length of completeString
+		if numberOfCharacters > 20 then
+			return text 1 thru 20 of completeString
+		else
+			
+			return completeString
+		end if
+	end tell
+	
+else
+	return ""
+end if
