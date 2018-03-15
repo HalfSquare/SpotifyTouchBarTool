@@ -14,7 +14,7 @@ BTT: https://www.boastr.net/downloads
 
 Once BTT is installed 
 
-![title](https://github.com/HalfSquare/SpotifyTouchBarTool/ScreenShot1.png)
+![alt text](https://github.com/HalfSquare/SpotifyTouchBarTool/blob/master/ScreenShot1.png)
 
 Say what the step will be
 
