@@ -12,6 +12,8 @@ BTT: https://www.boastr.net/downloads
 
 ### Installing
 
-Once BTT is installed 
+Once BTT is installed you can insert all the code individually or download Defaults.json
+
+Import Defaults.json by going into BTT and manage presets->import->Defaults.json
 
 ![alt text](https://github.com/HalfSquare/SpotifyTouchBarTool/blob/master/screenshot1.png)
